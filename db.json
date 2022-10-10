@@ -1,0 +1,204 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nur",
+      "surname": "Çalışkan",
+      "studentNumber" : "111",
+      "class" : "5A",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "76",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 2,
+      "name": "Emre",
+      "surname": "Yalçın",
+      "studentNumber" : "112",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "77",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 3,
+      "name": "Yavuz",
+      "surname": "Kılıç",
+      "studentNumber" : "113",
+      "class" : "5C",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "87",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 4,
+      "name": "Fatma",
+      "surname": "Kanyurt",
+      "studentNumber" : "114",
+      "class" : "5A",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "97",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 5,
+      "name": "Ömer",
+      "surname": "Avcı",
+      "studentNumber" : "115",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "98",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 6,
+      "name": "Tuğba",
+      "surname": "Keskin",
+      "studentNumber" : "116",
+      "class" : "5A",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "65",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 7,
+      "name": "Yasir",
+      "surname": "Demir",
+      "studentNumber" : "117",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "56",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 8,
+      "name": "Emir",
+      "surname": "Kartal",
+      "studentNumber" : "118",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "57",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 9,
+      "name": "Mesut",
+      "surname": "Eravcı",
+      "studentNumber" : "119",
+      "class" : "5C",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "43",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 10,
+      "name": "Salih",
+      "surname": "Şimşek",
+      "studentNumber" : "120",
+      "class" : "5C",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "66",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 11,
+      "name": "Gamze",
+      "surname": "Özgür",
+      "studentNumber" : "121",
+      "class" : "5A",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "76",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 12,
+      "name": "Ramazan",
+      "surname": "Güzel",
+      "studentNumber" : "122",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "77",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 13,
+      "name": "Adem",
+      "surname": "Kanyalçın",
+      "studentNumber" : "123",
+      "class" : "5C",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "87",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 14,
+      "name": "Osman",
+      "surname": "Eralp",
+      "studentNumber" : "124",
+      "class" : "5A",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "97",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 15,
+      "name": "Fatih",
+      "surname": "Sultan",
+      "studentNumber" : "125",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "98",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 16,
+      "name": "Asya",
+      "surname": "Kerim",
+      "studentNumber" : "126",
+      "class" : "5A",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "65",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 17,
+      "name": "Fatma",
+      "surname": "Betül",
+      "studentNumber" : "127",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "56",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 18,
+      "name": "Tülay",
+      "surname": "Serçe",
+      "studentNumber" : "128",
+      "class" : "5B",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "57",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 19,
+      "name": "Melike",
+      "surname": "Elmacı",
+      "studentNumber" : "129",
+      "class" : "5C",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "43",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    },
+    {
+      "id": 20,
+      "name": "İlknur",
+      "surname": "Koz",
+      "studentNumber" : "130",
+      "class" : "5C",
+      "scholl" : "Atatürk Ortaokulu",
+      "overallNote" : "66",
+      "Lesson": ["Matematik","FenBilimleri","Türkçe"]
+    }
+  ]
+}
