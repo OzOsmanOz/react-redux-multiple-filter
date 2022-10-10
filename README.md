@@ -1,3 +1,5 @@
+![Gif](https://github.com/OzOsmanOz/react-redux-multiple-filter/blob/master/react-redux-multiple-filter.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
